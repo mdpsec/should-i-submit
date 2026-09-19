@@ -1,0 +1,25 @@
+# Local secrets and authenticated material
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+cookie.txt
+cookies.txt
+cookies.sqlite
+
+# Local agent and editor state
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local review inputs and outputs
+private-reports/
+review-output/
+.should-submit-results/
+*.har
+*.zip
+
+.local-test-reports/
