@@ -5,6 +5,13 @@ confirm the report, find missing proof, identify unsafe steps, or explain why th
 report should not be submitted. It does not hunt for a better bug or submit
 anything for you.
 
+Enjoy the workflow, and I hope it gives you plenty of ideas for building your own hunting system.
+
+If you put it to use, I would love to hear what you build. 
+
+Follow me on [@mdp_sec](https://x.com/mdp_sec) for more bug bounty research, workflow design, and updates.
+
+
 ## What you need
 
 Create one folder for one report. It needs only two files:
